@@ -9,3 +9,6 @@ img{
 	height: auto;
 }
 
+* {
+	box-sizing: border-box;
+}
